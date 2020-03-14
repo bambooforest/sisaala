@@ -17,4 +17,4 @@ It is also available online here: [http://commons.emich.edu/theses/73/](http://c
 
 Afterwards, I began work (in progress) on a mode detailed grammar. This is available in this repository in the pdf `ssl_moran2009.pdf`.
 
-
+I also plan to make the data available in this repository in the future.
