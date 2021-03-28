@@ -1,4 +1,4 @@
-# Isaalo (aka Western Sisaala) Grammar
+# Isaalo grammar
 
 Glottocode: [west2465](https://glottolog.org/resource/languoid/id/west2465)
 
