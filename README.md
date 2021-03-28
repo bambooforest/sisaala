@@ -2,7 +2,7 @@
 
 Glottocode: [west2465](https://glottolog.org/resource/languoid/id/west2465)
 
-I conducted onsite fieldwork in Lambussie, Ghana, in 2004. This fieldwork resulted in my MA thesis, *A grammatical sketch of Isaalo (Western Sisaala)*, to be cited as:
+I conducted onsite fieldwork in Lambussie, Ghana, in 2003. This fieldwork resulted in my MA thesis, *A grammatical sketch of Isaalo (Western Sisaala)*, to be cited as:
 
 ```
 @mastersthesis{Moran2006,
